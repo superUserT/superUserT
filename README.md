@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Simple Shell Project](https://github.com/superUserT/simple_shell)
 
-- 🌱 I’m currently learning **REACT, SE with ALX, Web Dev with Odin Project**
+- 🌱 I’m currently learning **REACT with META, SE with ALX, Web Development with the Odin Project**
 
 - 👯 I’m looking to collaborate on [local is Lekker](https://github.com/superUserT/local_is_lekker)
 
