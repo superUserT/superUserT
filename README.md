@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/theboydobtplay" target="blank"><img src="https://img.shields.io/twitter/follow/theboydobtplay?logo=twitter&style=for-the-badge" alt="theboydobtplay" /></a> </p>
 
-- 🔭 I’m currently working on [Simple Shell Project](https://github.com/superUserT/simple_shell)
+- 🔭 I’m currently working on [Stacks, Queues](https://github.com/superUserT/monty)
 
 - 🌱 I’m currently learning **REACT, SE with ALX, Web Dev with Odin Project**
 
 - 👯 I’m looking to collaborate on [local is Lekker](https://github.com/superUserT/local_is_lekker)
 
-- 🤝 I’m looking for help with [Fuel Tracking](https://github.com/superUserT/FuelTrackingApplication)
+- 🤝 I’m looking for help with [RSA-Factoring-Challenge](https://github.com/superUserT/RSA-Factoring-Challenge)
 
 - 👨‍💻 All of my projects are available at [https://thabisorantshoportfoliosite.netlify.app](https://thabisorantshoportfoliosite.netlify.app)
 
 - 📝 I regularly write articles on [https://medium.com/@thabisojoerantsho](https://medium.com/@thabisojoerantsho)
 
-- 💬 Ask me about **.net, C and Javascript**
+- 💬 Ask me about **C# and .net, C and Javascript and Python**
 
 - 📫 How to reach me **rantshothabisomail@gmail.com**
 
