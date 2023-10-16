@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/theboydobtplay" target="blank"><img src="https://img.shields.io/twitter/follow/theboydobtplay?logo=twitter&style=for-the-badge" alt="theboydobtplay" /></a> </p>
 
-- 🔭 I’m currently working on [RSA-Factoring-Challenge](https://github.com/superUserT/RSA-Factoring-Challenge)
+- 🔭 I’m currently working on [AirBnB clone](https://github.com/superUserT/AirBnB_clone)
 
 - 🌱 I’m currently learning **REACT, SE with ALX, Web Dev with Odin Project**
 
