@@ -24,9 +24,9 @@
 - 📫 How to reach me **rantshothabisomail@gmail.com**
 
 - 📄 Know about my experiences [https://thabisorantshoportfoliosite.netlify.app/resume](https://thabisorantshoportfoliosite.netlify.app/resume)
-- Open to job opportunities
 
 - ⚡ Fun fact **I can make 2 minute noodles in 1 min 57s**
+- Open to job opportunities 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
