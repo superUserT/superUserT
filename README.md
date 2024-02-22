@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@thabisojoerantsho](https://medium.com/@thabisojoerantsho)
 
-- 💬 Ask me about **.net, and Python**
+- 💬 Ask me about **.Net, Flask, React and Python**
 
 - 📫 How to reach me **rantshothabisomail@gmail.com**
 
