@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [Lets_Budget](https://github.com/superUserT/Lets_Budget)
 
-- 👨‍💻 All of my projects are available at [PortfolioSite]((https://superusert.github.io)
+- 👨‍💻 All of my projects are available at [PortfolioSite](https://superusert.github.io)
 
 - 📝 I regularly write articles on [https://medium.com/@thabisojoerantsho](https://medium.com/@thabisojoerantsho)
 
