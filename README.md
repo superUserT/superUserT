@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/theboydobtplay" target="blank"><img src="https://img.shields.io/twitter/follow/theboydobtplay?logo=twitter&style=for-the-badge" alt="theboydobtplay" /></a> </p>
 
-- 🔭 I’m currently working on [local is Lekker](https://github.com/superUserT/local_is_lekker_project)
+- 🔭 I’m currently working on [Rentza](https://github.com/superUserT/Rentza)
 
 - 🌱 I’m currently learning **Java**
 
