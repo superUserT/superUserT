@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **rantshothabisomail@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HDis8qHCmaXCcQgdG9ju3TWWUoh67O7Z]([https://thabisorantshoportfoliosite.netlify.app/resume](https://drive.google.com/file/d/1HDis8qHCmaXCcQgdG9ju3TWWUoh67O7Z))
+- 📄 Know about my experiences [https://thabisorantshoportfoliosite.netlify.app/resume](https://drive.google.com/file/d/1HDis8qHCmaXCcQgdG9ju3TWWUoh67O7Z)
 
 - ⚡ Fun fact **I can make 2 minute noodles in 1 min 55s**
 
