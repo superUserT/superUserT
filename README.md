@@ -17,13 +17,13 @@
 
 - 👨‍💻 All of my projects are available at [PortfolioSite]([https://superusert.github.io](https://superusert.github.io/React-Portfolio-Site/))
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@thabisojoerantsho)
+- 📝 I regularly write articles on [https://medium.com/@thabisojoerantsho](https://medium.com/@thabisojoerantsho)
 
-- 💬 Ask me about **.Net, Flask, React and Python**
+- 💬 Ask me about **C#, Python, Javascript**
 
 - 📫 How to reach me **rantshothabisomail@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://thabisorantshoportfoliosite.netlify.app/resume](https://drive.google.com/file/d/1HDis8qHCmaXCcQgdG9ju3TWWUoh67O7Z))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1HDis8qHCmaXCcQgdG9ju3TWWUoh67O7Z]([https://thabisorantshoportfoliosite.netlify.app/resume](https://drive.google.com/file/d/1HDis8qHCmaXCcQgdG9ju3TWWUoh67O7Z))
 
 - ⚡ Fun fact **I can make 2 minute noodles in 1 min 55s**
 
