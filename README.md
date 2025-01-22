@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/theboydobtplay" target="blank"><img src="https://img.shields.io/twitter/follow/theboydobtplay?logo=twitter&style=for-the-badge" alt="theboydobtplay" /></a> </p>
 
-- 🔭 I’m currently working on [Rentza](https://github.com/superUserT/Rentza)
+- 🔭 I’m currently working on [Standup](https://github.com/superUserT/umuziStandup)
 
 - 🌱 I’m currently learning **Frontend Web Development**
 
