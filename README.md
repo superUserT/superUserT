@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Rentza](https://github.com/superUserT/Rentza)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Frontend Web Development**
 
 - 👯 I’m looking to collaborate on [Lets_Budget](https://github.com/superUserT/Lets_Budget)
 
