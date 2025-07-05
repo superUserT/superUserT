@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/theboydobtplay" target="blank"><img src="https://img.shields.io/twitter/follow/theboydobtplay?logo=twitter&style=for-the-badge" alt="theboydobtplay" /></a> </p>
 
-- 🔭 I’m currently working on [Standup](https://github.com/superUserT/umuziStandup)
+- 🔭 I’m currently working on [FileSync](https://github.com/superUserT/fileSync)
 
 - 🌱 I’m currently learning **Frontend Web Development**
 
-- 👯 I’m looking to collaborate on [Lets_Budget](https://github.com/superUserT/Lets_Budget)
+- 👯 I’m looking to collaborate on [homey](https://github.com/superUserT/homey)
 
-- 🤝 I’m looking for help with [Lets_Budget](https://github.com/superUserT/Lets_Budget)
+- 🤝 I’m looking for help with [homey](https://github.com/superUserT/homey)
 
 - 👨‍💻 All of my projects are available at [PortfolioSite]([https://superusert.github.io](https://superusert.github.io/React-Portfolio-Site/))
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **rantshothabisomail@gmail.com**
 
-- 📄 Know about my experiences [https://thabisorantshoportfoliosite.netlify.app/resume](https://drive.google.com/file/d/1HDis8qHCmaXCcQgdG9ju3TWWUoh67O7Z)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vZeplZxsvvBmWnzZIkekRO_7XaoEh-kx/view?usp=sharing)
 
 - ⚡ Fun fact **I can make 2 minute noodles in 1 min 55s**
 
